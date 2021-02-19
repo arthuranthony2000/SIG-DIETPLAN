@@ -15,7 +15,7 @@ definido pelo consumidor em relação aos resultados do mesmo.
 #### Equipe:
 Arthur Anthony, Douglas Mateus, Adalberto Maia e Lucas Santos.
 
-### Sumário:
+#### Sumário:
 [Modelo ER](https://github.com/arthuranthony2000/SIG-DIETPLAN/blob/master/docs/MODELO_ER.md)
 
 [Modelo R](https://github.com/arthuranthony2000/SIG-DIETPLAN/blob/master/docs/MODELO_R.md)
