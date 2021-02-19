@@ -12,4 +12,5 @@ pelo consumidor. A dieta atenderá todas as exigências, quantidade de calorias,
 de gordura, carboidratos e proteı́nas. E será gerado gráficos de progresso com perı́odo
 definido pelo consumidor em relação aos resultados do mesmo.
 
-### Equipe: Arthur Anthony, Douglas Mateus, Adalberto Maia e Lucas Santos.
+#### Equipe:
+Arthur Anthony, Douglas Mateus, Adalberto Maia e Lucas Santos.
