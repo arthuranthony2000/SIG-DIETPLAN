@@ -54,8 +54,8 @@ O sistema deve fornecer para o consumidor todos os nutricionistas disponíveis ,
 ### RF018 Envio de documentos
 por e-mail O sistema enviará comprovante de pagamento, relatório de progresso e cópia dos cardápios para o e-mail do consumidor.
 
-### RF019 Solicitação de
-Reembolso O sistema deverá abrir a possibilidade de reembolso para consumidores insatisfeitos.
+### RF019 Solicitação de Reembolso
+O sistema deverá abrir a possibilidade de reembolso para consumidores insatisfeitos.
 
 ### RF020 Criação de Relatório de Progresso Manual 
 O sistema deve ser capaz de permitir que o nutricionista possa criar seus próprios relatórios manuais para os seus acompanhamentos.
